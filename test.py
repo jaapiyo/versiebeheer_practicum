@@ -9,7 +9,7 @@ memory
 print ("Hallo Jaap")
 print("Zander houd van braai!")
 <<<<<<< HEAD
-print ("dit is van Jelle")
+print ("Dit is van Jelle")
 =======
 
 

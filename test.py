@@ -1,7 +1,7 @@
 print("Hello World")
 print("test")
 
-memory
+# memory
 # aanpassing Jaap
 
 
@@ -9,13 +9,12 @@ memory
 print ("Hallo Jaap")
 print("Zander houd van braai!")
 <<<<<<< HEAD
+<<<<<<< HEAD
 print ("Dit is van Jelle")
 =======
+=======
+print ("dit is van Jelle")
+>>>>>>> origin/master
 
 
 # Dag meneer Tuk -Jaap
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
-
->>>>>>> origin/master

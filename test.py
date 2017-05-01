@@ -2,5 +2,5 @@ print("Hello World")
 print("test")
 
 # aanpassing Jaap
-print ("hallo jaap")
+print ("hallo Jaap")
 print("Zander houd van braai!")
